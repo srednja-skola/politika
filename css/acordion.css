@@ -1,0 +1,51 @@
+    /*a {
+        clear: both;
+        float: left;
+        display: inline-block;
+        padding: 2px;
+    }*/
+
+    b {
+        color: red;
+        font-size: 120%;
+        font-weight: normal;
+        line-height: 1.2;
+    }
+
+    .active {
+        background: #c30000;
+        width: 100%;
+    }
+
+    .btn {
+        margin: 2px 2%;
+        width: 96%;
+        text-align: left;
+    }
+
+    .multi-collapse {
+        width: 96%;
+        padding-left: 3%;
+    }
+
+    .multi-collapse>p:first-child {
+        margin-top: 15px;
+    }
+
+    .multi-collapse>p:last-child {
+        margin-bottom: 15px;
+    }
+
+    #poglavlje-1,
+    #poglavlje-2,
+    #poglavlje-3,
+    #poglavlje-4,
+    #poglavlje-5,
+    #poglavlje-6,
+    #poglavlje-7,
+    #poglavlje-8,
+    #poglavlje-9,
+    #poglavlje-10,
+    #poglavlje-11 {
+        /*display: none*/
+    }
