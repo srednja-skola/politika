@@ -1,0 +1,210 @@
+﻿1.	Koja se vrsta politike bavi provedbom kurikularne reforme?
+A.	vanjska
+B.	socijalna
+C.	obrazovna
+
+2.	Koji je od navedenih elemenata konstitutivan za državu?
+A.	organizirana vlast
+B.	članstvo u vojnim savezima
+C.	sudjelovanje u međunarodnim organizacijama
+
+3.	Na koji se način stječe puni politički autoritet?
+A.	legitimnošću i legalnošću
+B.	kandidaturom na izborima
+C.	osnivanjem političke stranke
+
+4.	Kako se naziva oblik demokracije koji se počinje razvijati u 18. stoljeću, a kojim se uvodi parlament kao reprezentativno tijelo građana?
+A.	izravna
+B.	socijalistička
+C.	predstavnička
+
+5.	Što u političkome smislu predstavlja aristokracija u aristokratskome tipu političkoga poretka?
+A.	političku manjinu
+B.	nacionalnu manjinu
+C.	konstitutivnu većinu
+
+6.	Koji je izborni sustav primijenjen na parlamentarnim izborima 2015. godine u Republici Hrvatskoj?
+A.	većinski
+B.	razmjerni
+C.	kombinirani
+
+7.	Kako se naziva tip države sastavljene od više samostalnih pokrajina koje svoj suverenitet prenose na saveznu razinu?
+A.	unitarna
+B.	federativna
+C.	konfederativna
+
+8.	Kojim se pravnim dokumentom na određenome području evidentiraju svi građani s biračkim pravom?
+A.	popisom birača
+B.	glasačkim listićem
+C.	popisom stanovništva
+
+9.	Koja od navedenih ovlasti pripada zakonodavnoj vlasti?
+A.	provođenje porezne politike
+B.	imenovanje mandatara vlade
+C.	ratificiranje međunarodnih sporazuma
+
+10.	Na koji se način konstituira Hrvatski sabor nakon provedenih izbora?
+A.	izborom radnih tijela na prvoj sjednici
+B.	izborom predsjednika Hrvatskoga sabora na prvoj sjednici
+C.	nazočnošću Predsjednika Republike Hrvatske na prvoj sjednici
+
+11.	Koje tijelo državne vlasti prema Ustavu Republike Hrvatske treba prije raspisivanja referenduma donijeti odluku o razdruživanju Republike Hrvatske iz saveza s drugim državama?
+A.	Hrvatski sabor
+B.	Vlada Republike Hrvatske
+C.	Predsjednik Republike Hrvatske
+
+12.	Koje tijelo može prema Ustavu Republike Hrvatske odobriti pokretanje kaznenoga postupka protiv Predsjednika Republike Hrvatske ako postoji sumnja da je počinio kazneno djelo?
+A.	Hrvatski sabor
+B.	Ustavni sud Republike Hrvatske
+C.	Državno odvjetništvo Republike Hrvatske
+
+13.	Kojom većinom prema Ustavu Republike Hrvatske Sabor donosi Zakon o izborima zastupnika u Hrvatski sabor?
+A.	običnom
+B.	apsolutnom
+C.	dvotrećinskom
+
+14.	Koja institucija prema Ustavu Republike Hrvatske može donositi uredbe sa zakonskom snagom u slučaju izvanrednoga stanja kada Hrvatski sabor nije u mogućnosti zasjedati i odlučivati?
+A.	Vlada Republike Hrvatske
+B.	predsjednik Hrvatskoga sabora
+C.	Predsjednik Republike Hrvatske
+
+15.	Koje samostalno i neovisno tijelo prema Ustavu Republike Hrvatske ima ovlasti postupati protiv počinitelja kaznenih djela i poduzimati sve pravne radnje radi zaštite imovine Republike Hrvatske?
+A.	Državni inspektorat
+B.	Državno odvjetništvo
+C.	Državno sudbeno vijeće
+
+16.	Koja institucija prema Ustavu Republike Hrvatske predlaže državni proračun?
+A.	Hrvatski sabor
+B.	Vlada Republike Hrvatske
+C.	Predsjednik Republike Hrvatske
+
+17.	Koji dokument, stvoren prema prosvjetiteljskoj ideji, prvi naglašava jednakost svih ljudi i njihova prava na život, slobodu i privatno vlasništvo?
+A.	Habeas Corpus Act
+B.	Magna Carta Libertatum
+C.	Virginia Bill of Rights
+
+18.	Kojoj organizaciji pripada Europski sud za ljudska prava?
+A.	Vijeću Europe
+B.	Vijeću sigurnosti
+C.	Europskomu vijeću
+
+
+19.	Kojoj vrsti dobra pripada službeni automobil poduzetnika?
+A.	kapitalnomu dobru
+B.	slobodnomu dobru
+C.	potrošačkomu dobru
+
+20.	Kako se naziva cijena koju poduzetnik plaća za pozajmljivanje financijskih sredstava od poslovne banke za potrebe ulaganja u vlastiti posao?
+A.	renta
+B.	kamata
+C.	zakupnina
+
+21.	Tvornica obuće modernizirana je suvremenim strojem za obradu potplata te se proizvodnja cipela povećala s 50 na 70 pari po jednome satu uloženoga rada. Kako se naziva opisani pokazatelj efikasnosti poslovanja?
+A.	proizvodnost rada
+B.	rentabilnost proizvodnje
+C.	ekonomičnost proizvodnje
+
+22.	Koji od navedenih ekonomista zastupa ideju u kojoj se uloga države u gospodarstvu ograničava isključivo na kontrolu novčanih tokova kroz regulaciju ponude i tiskanja novca?
+A.	Alfred Marshall
+B.	John Milton Friedman
+C.	Maynard Keynes
+
+23.	Što je posljedica provođenja kontrakcijske fiskalne politike?
+A.	povećanje zaposlenosti
+B.	povećanje nacionalne proizvodnje
+C.	ograničenje rasta ukupne potražnje
+
+24.	Iz kojega sektora u robno-novčanome toku zatvorenoga gospodarstva proizlazi ponuda svih činitelja proizvodnje?
+A.	države
+B.	kućanstava
+C.	poslovnih organizacija
+
+25.	Koje vrste dionica daju dioničaru pravo na veći broj glasova u tijelima dioničkoga društva?
+A.	redovne
+B.	vinkularne
+C.	povlaštene
+
+26.	Koja razina menadžmenta auto-kampa upravlja i koordinira djelatnicima radi svakodnevnoga organiziranja prehrane u različitim ugostiteljskim objektima?
+A.	niža
+B.	srednja
+C.	viša
+
+27.	Kojim se temeljnim financijskim izvještajem na određeni dan prikazuje vrijednost imovine poduzeća te prava vjerovnika i vlasnika na tu imovinu?
+A.	bilancom stanja
+B.	neto novčanim tokom
+C.	računom dobiti i gubitka
+
+28.	Koji stil vodstva karakterizira menadžera koji pri donošenju odluka uvažava mišljenja podređenih na svim menadžerskim razinama?
+A.	autoritativni
+B.	participativni
+C.	savjetodavni
+
+29.	Kako se naziva ime, znak ili simbol uz pomoć kojega se proizvod poduzeća razlikuje od proizvoda konkurenata?
+A.	marka
+B.	ambalaža
+C.	asortiman
+
+30.	Koju je regionalnu ekonomsku organizaciju Republika Hrvatska napustila ulaskom u Europsku uniju?
+A.	Europsku i monetarnu uniju (EMU)
+B.	Srednjoeuropsku zonu slobodne trgovine (CEFTA-u)
+C.	Europsko udruženje za slobodnu trgovinu (EFTA-u)
+
+31.	Kako se nazivaju organizacije poput GONG-a i Zelene akcije koje svoj rad temelje na dobrovoljnome udruživanju građana, a neovisne su od državnih institucija?
+
+32.	Kojoj vrsti političkoga govora pripada govor političara koji se intenzivno koristi stručnom terminologijom?
+
+33.	Indijski narod vjerovao je u iznimne moći i heroizam Mahatme Gandhija te mu se bezrezervno pokoravao. Koji tip vlasti prema Maxu Weberu predstavlja opisana vladavina?
+
+34.	Kako se nazivaju aktivnosti koje se provode prije izbora, a kojima političke stranke i kandidati prenose političke poruke biračima kako bi pridobili njihove glasove?
+
+35.	Koja je vrsta političkih stranaka nastala kao posljedica otpora protiv apsolutne moći vladara, a zalažu se za pravo glasa, slobodu tiska i pravo na privatno vlasništvo?
+
+36.	U kojemu je tipu republike vlada odgovorna isključivo parlamentu koji nadzire njezin rad, a zastupnici redovito mogu postavljati pitanja ministrima?
+
+37.	Na parlamentarnim izborima stranka desnice osvojila je 59 zastupničkih mjesta, stranka ljevice 23 zastupnička mjesta, stranka centra 19 zastupničkih mjesta, a ostale stranke manji broj zastupničkih mjesta. Budući da nitko nije mogao osigurati potrebnu većinu u parlamentu, udružili su se desnica i centar te stvorili novu koaliciju. Kako se naziva takva vrsta koalicije?
+
+38.	U Saudijskoj Arabiji monarh Salman bin Abdulaziz al-Saud kontrolira zakonodavnu, izvršnu i sudsku vlast. Kako se naziva takav tip monarhije?
+
+39.	Kako se naziva jedna stranka ili više političkih stranaka koje nisu na vlasti već svojim prijedlozima i kritiziranjem vladajućih služe kao kontrola vlasti?
+
+40.	Koji je tip političkoga sustava uveden u Republici Hrvatskoj ustavnim promjenama iz 2001. godine?
+
+41.	Tko uz građane Republike Hrvatske ostvaruje pravo sudjelovanja u upravljanju lokalnim poslovima u Republici Hrvatskoj?
+
+42.	Koje tijelo može odobriti lišavanje slobode zastupnika i odlučiti o njegovu pravu na imunitet ako Hrvatski sabor ne zasjeda?
+
+43.	Na koje načine prema Ustavu Republike Hrvatske građani mogu sudjelovati u upravljanju lokalnim poslovima osim preko lokalnih, odnosno regionalnih predstavničkih tijela?
+
+44.	Koji sud Republike Hrvatske osigurava jedinstvenu primjenu prava i ravnopravnost svih fizičkih i pravnih osoba?
+
+45.	U kojemu se roku prema Ustavu Republike Hrvatske mora provesti rasprava i glasovanje o povjerenju Vladi Republike Hrvatske ako je takav prijedlog dostavljen Hrvatskomu saboru?
+
+46.	Koje tijelo državne vlasti prema Ustavu Republike Hrvatske bira pučkoga pravobranitelja?
+
+47.	Koja tijela državne vlasti prema Ustavu Republike Hrvatske odlučuju o osnivanju konzularnih ureda Republike Hrvatske u inozemstvu?
+
+48.	Kako se nazivaju opći stavovi javnosti o političkim i društvenim pitanjima najčešće formirani pod utjecajem masovnih medija?
+
+49.	Kojemu činitelju proizvodnje pripada vjetar koji se upotrebljava u proizvodnji električne energije?
+
+50.	Kako se naziva pad vrijednosti novca uslijed čega se za istu količinu novca može kupiti manje robe?
+
+51.	Na glavnome gradskom trgu samo dva kestenjara prodaju pečene kestene prema unaprijed dogovorenoj cijeni. Kako se naziva takva tržišna struktura?
+
+52.	Kojoj vrsti nematerijalnoga novca pripada novac koji se nalazi na tekućim računima građana i koji postoji na temelju povjerenja, a stvaraju ga financijske ustanove?
+
+53.	Kako se naziva razina depozita koju poslovnim bankama propisuje centralna banka radi osiguravanja stabilnosti bankarskoga sustava?
+
+54.	Koja vrsta obveznice vlasniku omogućuje isplatu kamata prije njezina dospijeća, a isplatu nominalne vrijednosti nakon njezina dospijeća?
+
+55.	Četiri prijatelja osnovala su poduzeće te su društvenim ugovorom o osnivanju poduzeća odredili da za obveze društva odgovaraju samo do visine uloženoga kapitala koji iznosi 20 000,00 kuna. Kako se naziva opisani oblik društva kapitala?
+
+56.	Kako se naziva cijena američkoga dolara iskazana u hrvatskim kunama?
+
+57.	Što će se prema općemu zakonu potražnje dogoditi s potražnjom za lješnjacima ako njihova tržišna cijena znatno poraste, a ostali tržišni uvjeti ostanu nepromijenjeni?
+
+58.	Kako se naziva vrsta prodaje u kojoj proizvođači ekoloških prehrambenih proizvoda nude svoje proizvode u vlastitim specijaliziranim prodavaonicama?
+
+59.	Trgovac formira cijenu proizvoda u prodavaonici na 29,99 kn. Kako se naziva takva vrsta cijene kao instrument marketinškoga spleta?
+
+60.	Koji sustav, odgovoran za monetarnu politiku eurozone, čine centralne banke svih zemalja članica Europske unije zajedno s Europskom centralnom bankom?
