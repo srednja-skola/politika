@@ -70,7 +70,14 @@ body {
     padding: 2px 0px;
     border-radius: 5px
 }
-
+.napomena-3 {
+    background: #03A9F4;
+    padding: 2px 0px;
+    border-radius: 5px
+}
+.napomena-3 a {
+    color: #ffffff;
+}
 .ponavljanje-link, .ponavljanje-link:hover {
     background: red;
 }
