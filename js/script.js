@@ -1,5 +1,5 @@
 // footer copyleft (nova godina se mjenja automatski)
-var copyleft = document.querySelector(".copyleft");
+// var copyleft = document.querySelector(".copyleft");
 
 // rute za pojedinu stranicu
 
@@ -18,14 +18,14 @@ var route = {
     }
 }
 // aktiviraj na svim stranicama (ostaviš prazno i to znači svi linkovi) - sve one stranice na kojima želiš drukčije, postavi ispod ovog koda
-route.add("", function() {
+// route.add("", function() {
       // footer s linkom na mom imenu
-      copyleft.innerHTML = "Copyleft <span class='cl'>&copy;</span> " + new Date().getFullYear() + ". - Danijel Gavranović, prof.";
-});
+   //   copyleft.innerHTML = "Copyleft <span class='cl'>&copy;</span> " + new Date().getFullYear() + ". - autor";
+// });
 // aktiviraj samo kad je na stranici državne mature
 // route.add('drzavna-matura.html', function() {
 //   // footer s linkom na mom imenu
-//   copyleft.innerHTML = "Copyleft <span class='cl'>&copy;</span> " + new Date().getFullYear() + ". - <a href='https://drive.google.com/file/d/1O8OwVKNfRUDQZSPJO5M3XaEa9A1Zrjg2/view?usp=sharing'>Danijel Gavranović, prof.</a>";
+//   copyleft.innerHTML = "Copyleft <span class='cl'>&copy;</span> " + new Date().getFullYear() + ". - <a href='#'>autor</a>";
 // });
 
 // pozivanje route funkcije
